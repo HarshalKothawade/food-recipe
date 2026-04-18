@@ -46,7 +46,7 @@ body::-webkit-scrollbar {
   font-size: 25px;
   font-weight: bolder;
   text-shadow: 7px 7px 7px rgb(0, 0, 0);
-  color: rgb(250, 246, 246);
+  color: blue;
 }
 
 .navbar-2 {
