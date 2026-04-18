@@ -1,0 +1,76 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+ 
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+
+#grad {
+  background-image: linear-gradient(to right, rgb(234, 225, 225), rgb(89, 227, 82));
+}
+
+.viewRecipe-Container {
+  background-color: white;
+  height: 80%;
+  width: 60%;
+  padding: 10px;
+  box-shadow: 10px 10px 10px black;
+  margin-left: 300px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.viewRecipe-Container img{
+  height: 300px;
+  border: 2px solid black;
+  border-radius: 20px;
+}
+/* 
+.viewRecipe-Container font-size{
+  font-size: 20px;
+} */
+
+.viewRecipe-Container b{
+  font-size: 20px;
+  margin-top: 100px;
+}
+
+ol li{
+  font-size: 20px;
+  list-style-type:none;
+  letter-spacing: 1px;
+  word-spacing: 3px;
+  width: 500px;
+  margin-left: 190px;
+}
+
+
+.viewRecipe-Container p{
+  font-size: 20px;
+  margin-top: 15px;
+  font-size: 20px;
+  list-style-type:none;
+  letter-spacing: 1px;
+  word-spacing: 3px;
+}
+
+.viewRecipe-Container h3{
+  font-size: 23px;
+  margin-bottom: 10px;
+}
+
+
